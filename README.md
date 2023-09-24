@@ -1,2 +1,2 @@
-# .NetUygulama1
+# .Net Uygulama 
 .Net Operatörler
